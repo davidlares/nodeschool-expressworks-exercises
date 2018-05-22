@@ -1,6 +1,6 @@
 ## DavidExpress
 
- Desarrollo de ejercicios basicos para el entendimiento del micro-fraework ExpressJS. Manejo de Peticiones HTTP, lectura de archivos y middlewares
+ Desarrollo de ejercicios basicos para el entendimiento del micro-framework ExpressJS. Manejo de Peticiones HTTP, lectura de archivos y middlewares
 
  Parte de la serie de Workshops de NodeSchool
 
