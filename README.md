@@ -1,15 +1,11 @@
-## DavidExpress
+## ExpressWorks
 
- Desarrollo de ejercicios basicos para el entendimiento del micro-framework ExpressJS. Manejo de Peticiones HTTP, lectura de archivos y middlewares
+Development of basic exercises to understand the ExpressJS microframework. Handling HTTP requests, file reading, and middleware.
 
- Parte de la serie de Workshops de NodeSchool
+Part of the NodeSchool Workshop series.
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## NodeSchool Workshop
-- https://github.com/azat-co/expressworks/
-
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
